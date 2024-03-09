@@ -1,0 +1,5 @@
+dbfiles/
+redis/
+venv/
+__pycache__/
+
